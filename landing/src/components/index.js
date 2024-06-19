@@ -1,0 +1,9 @@
+export { default as Brands } from "./Brands";
+export { default as Card } from "./Card";
+export { default as Feature } from "./Feature";
+export { default as Header } from "./Header";
+export { default as Navbar } from "./Navbar";
+export { default as Slider } from "./Slider";
+export { default as Nextfrontier } from "./Nextfrontier";
+export { default as Explore } from "./Explore";
+export { default as Footer } from "./Footer";

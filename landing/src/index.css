@@ -1,0 +1,27 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;500;600;700;800&display=swap");
+
+:root {
+  --font-family: "Source Sans Pro", sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #9350df 1.84%, #461a02 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, #fc945d 99.55%);
+  --gradient-morph: linear-gradient(103.22deg, #67fae1 -13.86%, #fc5da7 99.55%);
+
+  --border-color: linear-gradient(rgb(13, 14, 33), rgb(13, 25, 243)),
+    radial-gradient(rgb(1, 110, 218), rgb(217, 0, 192));
+
+  --color-bg: #e9eff8;
+  --color-footer: #d6ecf3;
+  --color-blog: #880472;
+  --color-text: #81afdd;
+  --color-subtext: #ff8a71;
+}
